@@ -34,7 +34,7 @@ npm run build
 ```json
 {
   "mcpServers": {
-    "weather": {
+    "interview-mcp": {
       "command": "node",
       "args": ["<ПУТЬ_К_ПАПКЕ_ВАШЕГО_ПРОЕКТА>\\build\\index.js"]
     }
